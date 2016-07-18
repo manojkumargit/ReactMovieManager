@@ -1,0 +1,4 @@
+{
+  "DatabaseURL" : "mongodb://localhost/moviedb",
+  "secret"  : "verifyuser"
+}
